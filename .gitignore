@@ -6,6 +6,9 @@ files/
 sites/*/files
 sites/*/private
 
+# mac files
+.DS_Stores
+
 # Ignore default text files
 robots.txt
 /CHANGELOG.txt
